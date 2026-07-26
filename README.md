@@ -17,3 +17,6 @@ Topics Covered:
 
 Tools:
 - MySQL Workbench
+
+Dataset:
+- sql_intro_dataset.xlsx (public practice dataset used for learning SQL)
